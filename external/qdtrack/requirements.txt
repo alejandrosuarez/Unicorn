@@ -2,7 +2,7 @@ lvis
 motmetrics
 numpy
 pycocotools
-torch>=1.1
+torch>=2.2.0
 torchvision
 
 git+git://github.com/bdd100k/bdd100k.git
