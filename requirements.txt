@@ -14,7 +14,7 @@ tb-nightly
 easydict
 tikzplotlib  
 numpy
-torch>=1.7
+torch>=2.2.0
 opencv_python
 loguru
 scikit-image
