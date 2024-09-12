@@ -6,3 +6,4 @@ torch>=1.1
 torchvision
 
 git+git://github.com/bdd100k/bdd100k.git
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
